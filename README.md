@@ -40,6 +40,6 @@ Windows (using PowerShell)
 This happens if the code is not rated 10/10, since `make` assumes that the command has failed because the invoked shell
 return an exit code of 4 instead of 0, which would indicate success.
 - The blueprint price option does not work, because the blueprint inventory dump is missing the item name, which is required
-to match the item to its price. Unfortunately, the [Better Inventory Export](https://bakkesplugins.com/plugins/view/155] plugin) of Bakkesmod also does 
+to match the item to its price. Unfortunately, the [Better Inventory Export](https://bakkesplugins.com/plugins/view/155) plugin of Bakkesmod also does 
 not work as the item name of the blueprint is also not present there.
 
